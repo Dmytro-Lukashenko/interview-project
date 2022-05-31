@@ -12,8 +12,8 @@ export default {
         }
     },
     async mounted(){
-        const responce = await fetch('@db.json')
-        const fetchedQuestions = await responce.json()
+        const response = await fetch('https://my-json-server.typicode.com/Dmytro-Lukashenko/json-interview/posts')        
+        const fetchedQuestions = await response.json()
         console.log(fetchedQuestions)
     }
 }
