@@ -12,7 +12,7 @@ export default {
         }
     },
     async mounted(){
-        const response = await fetch('https://my-json-server.typicode.com/Dmytro-Lukashenko/json-interview/posts')        
+        const response = await fetch('https://my-json-server.typicode.com/Dmytro-Lukashenko/interview-project/questions')        
         const fetchedQuestions = await response.json()
         console.log(fetchedQuestions)
     }
