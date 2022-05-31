@@ -49,7 +49,18 @@
                 "title": "What is the Nuxt.js?"
             }
         ]
+        },
+        {
+        "id":6,
+        "theme":"git",
+        "data": [
+            {
+                "id": "6_1",
+                "title": "What is the GIT?"
+            }
+        ]
         }
+
 ]
 }
     

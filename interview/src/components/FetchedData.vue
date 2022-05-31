@@ -1,6 +1,13 @@
 <template>
   <div>
-
+    <ul>
+        <li 
+            v-for="question in questions"
+            :key="question.id"
+        >
+        {{question.theme}}
+        </li>        
+    </ul>
   </div>
 </template>
 
@@ -14,8 +21,9 @@ export default {
     async mounted(){
         const response = await fetch('https://my-json-server.typicode.com/Dmytro-Lukashenko/interview-project/questions')        
         const fetchedQuestions = await response.json()
-        fetchedQuestions.forEach(group => console.log(group))
-        
+        console.log(fetchedQuestions)  
+        this.questions = {...fetchedQuestions}
+        console.log(this.questions)
     }
 }
 </script>
