@@ -3,71 +3,34 @@
         {   
         "id":1,
         "theme":"html",
-        "data": [
-            {
-             "id": "1_1",
-             "title": "Що таке HTML?",
-             "answers":[],                
-            },
-            
-        ]
+        "data": [],
         },
         { 
         "id":2,
         "theme":"css",
-        "data": [
-            {
-             "id": "2_1",
-             "title": "Що таке специфікація?",
-             "answers":[], 
-            }
-        ]
+        "data": [],
         },
         {
         "id":3,
         "theme":"js",
-        "data": [
-            {
-                "id": "3_1",
-                "title": "What is the Java Script?"
-                "answers":[], 
-            }
-        ]
+        "data": [],
         },
         {
         "id":4,
         "theme":"vue",
-        "data": [
-            {
-                "id": "4_1",
-                "title": "What is the Vue.js?"
-                "answers":[], 
-            }
-        ]
+        "data": [],
         },
         {
         "id":5,
         "theme":"nuxt",
-        "data": [
-            {
-                "id": "5_1",
-                "title": "What is the Nuxt.js?"
-                "answers":[], 
-            }
-        ]
+        "data": [],
         },
         {
         "id":6,
         "theme":"git",
-        "data": [
-            {
-                "id": "6_1",
-                "title": "What is the GIT?"
-                "answers":[], 
-            }
-        ]
-        }
-]
+        "data": [],
+        },
+    ],
 }
    
    
