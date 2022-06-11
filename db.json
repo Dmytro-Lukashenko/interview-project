@@ -6,7 +6,23 @@
             {
              "id": "1_1",
              "title": "Що таке HTML?",
-             "answers": []
+             "answers": [
+                 {
+                  "id" : "1_1_1",
+                  "title" : "HTML – Hyper Text Markup Language – це стандарт, який визначає головну мову розмітки World Wide Web"
+                 },
+                 {
+                  "id" : "1_1_2",
+                  "title" : "HTML - фреймворк Java Script"
+                 },
+                 {
+                  "id" : "1_1_3",
+                  "title" : "HTML - мова для стилізування веб сторінки"
+                 },
+                 {
+                 
+                 }
+             ]
             }
         ]
         
