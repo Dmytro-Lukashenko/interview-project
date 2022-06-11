@@ -1,16 +1,16 @@
 { 
     "questions" :[
-       {   
-        "id":1,
+    {   "id":1,
         "theme":"html",
         "data": [
-           {
+            {
              "id": "1_1",
-             "title": "Що таке HTML?"                         
+             "title": "What is the HTML?"
             }
-        ]        
-       },
-       { 
+        ]
+        
+        },
+        { 
         "id":2,
         "theme":"css",
         "data": [
@@ -63,5 +63,3 @@
 
 ]
 }
-   
-   
