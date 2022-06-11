@@ -5,7 +5,11 @@
         "data": [
             {
              "id": "1_1",
-             "title": "What is the HTML?"
+             "title": "Що таке HTML?"
+            },
+            {
+             "id": "1_2",
+             "title": "Навіщо існує тег 'doctype'?"
             }
         ]
         
