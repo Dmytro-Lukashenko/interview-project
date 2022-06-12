@@ -326,6 +326,24 @@
                      "title" : "Не знаю"
                     }               
                 ]
+            },
+            {
+                "id": "1_19",
+                "title": "Яким чином реалізується валідація інформації, що вводиться у форму HTML?",
+                "answers": [
+                    {
+                     "id" : "1_19_1",
+                     "title" : "Є 2 варіанти: 1. Вбудована в HTML(type, required, minlength / maxlength, min / max, pattern), 2. За допомогою JS"
+                    },
+                    {
+                     "id" : "1_19_2",
+                     "title" : "Тільки вбудована в HTML(type, required, minlength / maxlength, min / max, pattern)"
+                    },
+                    {
+                     "id" : "1_19_3",
+                     "title" : "Тільки за допомогою JS"
+                    }               
+                ]
             }
         ]        
         },
