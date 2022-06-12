@@ -146,7 +146,25 @@
                      "title" : "Поняття семантики відсутнє у HTML"
                     }               
                 ]
-               }
+            },
+            {
+                "id": "1_9",
+                "title": "Наведіть приклади семантичних тегів",
+                "answers": [
+                    {
+                     "id" : "1_9_1",
+                     "title" : "header, main, article, section, footer"
+                    },
+                    {
+                     "id" : "1_9_2",
+                     "title" : "doctype, html, head"
+                    },
+                    {
+                     "id" : "1_9_3",
+                     "title" : " body, div, center"
+                    }               
+                ]
+            }
         ]        
         },
         { 
