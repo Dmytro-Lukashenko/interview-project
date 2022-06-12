@@ -182,6 +182,24 @@
                      "title" : "Microdata використовується для надання стилів веб сторінці"
                     }               
                 ]
+            },
+            {
+                "id": "1_11",
+                "title": "Що таке a11y?",
+                "answers": [
+                    {
+                     "id" : "1_11_1",
+                     "title" : "accessibility"
+                    },
+                    {
+                     "id" : "1_11_2",
+                     "title" : "allowability"
+                    },
+                    {
+                     "id" : "1_11_3",
+                     "title" : "awesomely"
+                    }               
+                ]
             }
         ]        
         },
