@@ -272,6 +272,42 @@
                      "title" : "Розташування"
                     }               
                 ]
+            },
+            {
+                "id": "1_16",
+                "title": "Які головні атрибути тегу input?",
+                "answers": [
+                    {
+                     "id" : "1_16_1",
+                     "title" : "type, name, value, placeholder, autofocus"
+                    },
+                    {
+                     "id" : "1_16_2",
+                     "title" : "step, size, rows, cols, spellcheck"
+                    },
+                    {
+                     "id" : "1_16_3",
+                     "title" : "Не знаю"
+                    }               
+                ]
+            },
+            {
+                "id": "1_17",
+                "title": "Які специфічеі атрибути тегу input?",
+                "answers": [
+                    {
+                     "id" : "1_17_1",
+                     "title" : "step, size, rows, cols, spellcheck"
+                    },
+                    {
+                     "id" : "1_17_2",
+                     "title" : "type, name, value, placeholder, autofocus"
+                    },
+                    {
+                     "id" : "1_17_3",
+                     "title" : "Не знаю"
+                    }               
+                ]
             }
         ]        
         },
